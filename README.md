@@ -1,7 +1,7 @@
 # Airbnb Python Project
 
 ## Objective
-The aim of this project is to analyze the certain Airbnb listings in the United States.
+The aim of this project is to analyze certain Airbnb listings in the United States.
 
 ## Key Tasks
 1. Loading the data set into a Pandas DataFrame
